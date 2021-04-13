@@ -69,5 +69,5 @@ This application/site was created as a submission to a [DevChallenges](https://d
 
 ## Contact
 
-- GitHub [@wizbrym](https://{github.com/wizbrym})
-- Twitter [@wiz_brym](https://{twitter.com/wiz_brym})
+- GitHub [@wizbrym](https://github.com/wizbrym)
+- Twitter [@wiz_brym](https://twitter.com/wiz_brym)
