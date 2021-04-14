@@ -12,7 +12,7 @@
       Demo
     </a>
     <span> | </span>
-    <a href="https://{your-url-to-the-solution}">
+    <a href="https://wizbrym-my-team-page.netlify.app/">
       Solution
     </a>
     <span> | </span>
