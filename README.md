@@ -8,11 +8,11 @@
 
 <div align="center">
   <h3>
-    <a href="https://github.com/WizBrym/devChallenge-MyTeamPage">
+    <a href="https://wizbrym-my-team-page.netlify.app/">
       Demo
     </a>
     <span> | </span>
-    <a href="https://wizbrym-my-team-page.netlify.app/">
+    <a href=https://devchallenges.io/solutions/5TeFqpA8Pd5jSKQk9Qg7>
       Solution
     </a>
     <span> | </span>
@@ -40,10 +40,7 @@
 
 Introduce your projects by taking a screenshot or a gif. Try to tell visitors a story about your project by answering:
 
-- Where can I see your demo?
-- What was your experience?
-- What have you learned/improved?
-- Your wisdom? :)
+- Where can I see your demo? https://wizbrym-my-team-page.netlify.app/
 
 ### Built With
 
